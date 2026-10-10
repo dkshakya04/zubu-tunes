@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dkshakya04.github.io/zubu-tunes/sitemap.xml
